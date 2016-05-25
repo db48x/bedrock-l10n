@@ -1,6 +1,7 @@
-## contribute-tasks-0516 ##
-## NOTE: File is used for the new /signup page. Demo page: https://bedrock-demo-schalk-contribute.us-west.moz.works/contribute/signup/
-## URL: https://bedrock-demo-schalk-contribute.us-west.moz.works/%LOCALE%/contribute/signup/
+
+
+;Get Involved: Volunteer Opportunities at Mozilla
+Get Involved: Volunteer Opportunities at Mozilla
 
 
 ;Get Involved with Mozilla Today
@@ -11,12 +12,12 @@ Get Involved with Mozilla Today
 Try something simple
 
 
-;more info
-more info
-
-
 ;Connect with Mozilla on Twitter
 Connect with Mozilla on Twitter
+
+
+;more info
+more info
 
 
 ;Stay connected with the @StartMozilla team for news, announcements and opportunities.
@@ -39,8 +40,8 @@ Discover why we can’t live without encryption
 Find out more about how encryption works, why it’s essential and what you can do to help protect it.
 
 
-;Try something more challenging
-Try something more challenging
+;Learn about how contributors build Mozilla
+Learn about how contributors build Mozilla
 
 
 ;Watch someone live hack on Firefox
@@ -67,220 +68,29 @@ Start using the Mozilla Stumbler app
 Mozilla Stumbler is an open-source wireless network scanner which collects GPS, cellular and wireless network metadata for our crowd-sourced location database.
 
 
-;Mozilla Participation Tasks
-Mozilla Participation Tasks
+;Dive right in and build something
+Dive right in and build something
 
 
-;I want to pick a different task.
-I want to pick a different task.
+;Hack on Firefox itself!
+Hack on Firefox itself!
 
 
-;Try another task?
-Try another task?
+;This source repository defines our core product, Firefox. Similar repositories contain the source code for our other projects.
+This source repository defines our core product, Firefox. Similar repositories contain the source code for our other projects.
 
 
-;Keep in touch with Mozilla. Sign up for our newsletter.
-Keep in touch with Mozilla. Sign up for our newsletter.
+;Translate Firefox into your local language
+Translate Firefox into your local language
 
 
-;Find your local Mozilla community.
-Find your local Mozilla community.
+;Almost all of our translations are compiled by contributors. Each one is created by a community group who split the work between themselves.
+Almost all of our translations are compiled by contributors. Each one is created by a community group who split the work between themselves.
 
 
-;The Mozilla newsletter is currently available in English only.
-The Mozilla newsletter is currently available in English only.
+;Check out our wiki for more ideas
+Check out our wiki for more ideas
 
 
-# Page: task/follow-mozilla
-;Tweet to @StartMozilla and see how your technical skills can contribute
-Tweet to @StartMozilla and see how your technical skills can contribute
-
-
-;There are so many ways to get involved with Mozilla and support the browser. If you’re ready to fix your first bug, tweet @StartMozilla to get connected with the perfect starting bug for you.
-There are so many ways to get involved with Mozilla and support the browser. If you’re ready to fix your first bug, tweet @StartMozilla to get connected with the perfect starting bug for you.
-
-
-;Tweet This
-Tweet This
-
-
-# This is a tweet, try to keep it within the 140 characters limit
-;I’m raising my hand to contribute to Mozilla! @startmozilla tell me how I can join you to help protect the open web.
-I’m raising my hand to contribute to Mozilla! @startmozilla tell me how I can join you to help protect the open web.
-
-
-;Share on Twitter
-Share on Twitter
-
-
-;Follow @startmozilla on Twitter
-Follow @startmozilla on Twitter
-
-
-;Follow @startmozilla
-Follow @startmozilla
-
-
-;Thanks for following
-Thanks for following
-
-
-# Page: task/follow-mobile
-;Install Firefox for iOS or Android
-Install Firefox for iOS or Android
-
-
-;Use Firefox on your iOS or Android phone and tablet
-Use Firefox on your iOS or Android phone and tablet
-
-
-;Firefox is the independent mobile browser and by using this you’re supporting Mozilla’s mission and creating a browsing experience that is private and personal.
-Firefox is the independent mobile browser and by using this you’re supporting Mozilla’s mission and creating a browsing experience that is private and personal.
-
-
-;Add Firefox to your Android and iOS devices
-Add Firefox to your Android and iOS devices
-
-
-;Download on the App Store
-Download on the App Store
-
-
-;Thanks for installing Firefox
-Thanks for installing Firefox
-
-
-# Page: task/encryptiopn
-;Learn About Encryption
-Learn About Encryption
-
-
-;Sign the pledge and stand up for strong encryption.
-Sign the pledge and stand up for strong encryption.
-
-
-;Encryption is how we keep our personal information safe and private. Please join us in the fight to protect it.
-Encryption is how we keep our personal information safe and private. Please join us in the fight to protect it.
-
-
-;<a href="%s" rel="external" target="_blank">Learn more about encryption</a>, why it’s essential and why we need to protect it.
-<a href="%s" rel="external" target="_blank">Learn more about encryption</a>, why it’s essential and why we need to protect it.
-
-
-## TAG: contribute-tasks-0516
-;Become an encryption champion
-Become an encryption champion
-
-
-;Take the pledge
-Take the pledge
-
-
-;Thank you for taking the pledge
-Thank you for taking the pledge
-
-
-# Page: task/joy-of-coding
-;Get involved
-Get involved
-
-
-;Watch: The Joy of Coding
-Watch: The Joy of Coding
-
-
-;Watch The Joy of Coding, then discuss it with other Mozillians
-Watch The Joy of Coding, then discuss it with other Mozillians
-
-
-;Anyone can contribute to Firefox by finding and fixing errors that people report via Bugzilla. Watch a demonstration of a Firefox engineer live hacking to see what it’s all about.
-Anyone can contribute to Firefox by finding and fixing errors that people report via Bugzilla. Watch a demonstration of a Firefox engineer live hacking to see what it’s all about.
-
-
-;Watch the intro.
-Watch the intro.
-
-
-;<a href="https://twitter.com/mike_conley" rel="external">@mike_conley</a> livehacks on real Firefox bugs while thinking out loud.
-<a href="https://twitter.com/mike_conley" rel="external">@mike_conley</a> livehacks on real Firefox bugs while thinking out loud.
-
-
-## TAG: contribute-tasks-0516
-;View more <em>Joy of Coding</em> videos on Air Mozilla
-View more <em>Joy of Coding</em> videos on Air Mozilla
-
-
-;<a href="%s" id="get-involved" target="_blank">Join the Coding Community</a> and start collaborating with other Mozillians around the world.
-<a href="%s" id="get-involved" target="_blank">Join the Coding Community</a> and start collaborating with other Mozillians around the world.
-
-
-## TAG: contribute-tasks-0516
-;Thanks for watching
-Thanks for watching
-
-
-;Thanks for getting involved
-Thanks for getting involved
-
-
-# Page: task/devtools-challenger
-;Go to Dev Tools Challenger Page
-Go to Dev Tools Challenger Page
-
-
-;Try out our new animation editing tools in Developer Tools Challenger
-Try out our new animation editing tools in Developer Tools Challenger
-
-
-;The more you know about the web, the easier it is to make it your own. Participate in the web by testing your web literacy skills using the new tools in Firefox Developer Edition.
-The more you know about the web, the easier it is to make it your own. Participate in the web by testing your web literacy skills using the new tools in Firefox Developer Edition.
-
-
-;Download Firefox Dev Edition
-Download Firefox Dev Edition
-
-
-;Dev Tools requires Firefox Developer Edition desktop browser. To try this task, download Firefox Developer Edition first.
-Dev Tools requires Firefox Developer Edition desktop browser. To try this task, download Firefox Developer Edition first.
-
-
-;Go to Dev Tools Challenger
-Go to Dev Tools Challenger
-
-
-## TAG: contribute-tasks-0516
-;Visit Dev Tools Challenger
-Visit Dev Tools Challenger
-
-
-;<a href="%s" id="get-involved" target="_blank">Join the Webdev Contribute Group</a> and start collaborating with other Mozillians around the world.
-<a href="%s" id="get-involved" target="_blank">Join the Webdev Contribute Group</a> and start collaborating with other Mozillians around the world.
-
-
-;Thanks for taking the challenge
-Thanks for taking the challenge
-
-
-# Page: task/stumbler
-;Get it on Google Play
-Get it on Google Play
-
-
-;Install Mozilla Stumbler for Android
-Install Mozilla Stumbler for Android
-
-
-;Map the wireless networks in your neighborhood.
-Map the wireless networks in your neighborhood.
-
-
-;Install Mozilla Stumbler
-Install Mozilla Stumbler
-
-
-;<a href="%s" target="_blank">Learn more about Mozilla Location Services</a> and discover more ways to get involved.
-<a href="%s" target="_blank">Learn more about Mozilla Location Services</a> and discover more ways to get involved.
-
-
-;Thank you for installing Mozilla Stumbler
-Thank you for installing Mozilla Stumbler
+;The wiki documents very nearly all ways that anyone has ever helped us out. Even the parts that aren't specifically intended as introductory material for newcomers may be useful to you in your quest to understand how things get accomplished around here.
+The wiki documents very nearly all ways that anyone has ever helped us out. Even the parts that aren't specifically intended as introductory material for newcomers may be useful to you in your quest to understand how things get accomplished around here.
